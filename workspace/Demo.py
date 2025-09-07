@@ -1,3 +1,1 @@
-print("bingo")
-print("jango")
 
