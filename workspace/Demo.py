@@ -1,1 +1,1 @@
-print("fares")
+print("faroosy")
