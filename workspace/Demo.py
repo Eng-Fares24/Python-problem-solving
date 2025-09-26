@@ -5,7 +5,4 @@ print("new branch")
 print("el mafrood")
 print("mamamia")
 #riip
-#jacktus
-#lolxdddd
-#git lolllll
-#sanyalllllll
+
